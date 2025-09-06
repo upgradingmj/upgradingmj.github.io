@@ -1,7 +1,7 @@
 ---
 
 title: Hello World!
-date: 2025-06-23
+date: 2025-09-06
 categories: [blog, journal]
 
 --- 
