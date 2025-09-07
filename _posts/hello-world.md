@@ -4,9 +4,12 @@ title: Hello World!
 date: 2025-09-06
 categories: [blog, journal]
 
---- 
+description: First post.....
+
+---
 
 # Welcome
+
 
 Hello! 
 
