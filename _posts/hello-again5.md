@@ -1,8 +1,7 @@
----
 title: Hello World!
 date: 2025-09-07 
 categories: [Blog, Journal]
-tags: [blog, journal]     # TAG names should always be lowercase
+tags: [homelab, cybersecurity]     # TAG names should always be lowercase
 ---
 
 # Welcome
