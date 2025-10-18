@@ -1,7 +1,7 @@
 ---
 title: What is Git?
 date: 2025-10-18
-categories: [career, education]
+categories: [career, education, blog]
 tags: [learningwithmj]
 
 ---
