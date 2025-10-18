@@ -8,6 +8,7 @@ title: What is Git?
 
 # Understanding the Git Protocol
 
+
 One of the most biggest challenges in my career was my lack of understanding of the Git protocol. People say the best way to learn is by doing, and I placed that into practice by staging this website, yes I didn't get it right the first.. or second time but I eventually got it! I understand why developers have so much flexibility and control in terms of their workflow. 
 
 One of the most common misconceptions for folks is conflating between Git and Github by believing they're one and the same. While most people who use Git do also famously use Github these services are different as Git is able to work with version control software vensors such as Github, Gitlab, Gitea, etc. I was also guilty of this as well since I had no idea how the underground protocol worked.
